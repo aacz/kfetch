@@ -1,1 +1,1 @@
-const si = require('systeminformation');
+const os = require('os');
